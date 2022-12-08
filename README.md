@@ -13,8 +13,6 @@ The goal of this project was to learn some new skills connected with Python and 
 
     alarm_clock.py - program file
     README.md - project documentation for projct
-    requirements.txt - pip-installable libraries required to run program: Tkinter for graphical user interface and Pygame for sounds effects
-    data folder - data files for required for the program to run:
     alarm-clock_background.png - alarm clock image for GUI
     alarm-clock.png - alarm block icon for GUI
     ringtone.mp3 - default rington
