@@ -1,5 +1,4 @@
 # **ALARM CLOCK**
-### **Video Demo:**  [link](https://youtu.be/NYL2NYzlfvU)
 
 **Description:**
 Alarm clock with a graphical user interface created in Python. After starting the program, the users will see a window with the actual time updated every second. The user can enter the alarm time using the sliders for the hour, minute and second. The program has a default ringtone, but there is a button with which you can upload a customized ringtone file. After entering the alarm time, the user needs to approve it with the set alarm button. When the sound starts, you can turn it off with the "stop alarm" button. There are two other buttons for clearing the alarm before it rings and clear input time on sliders.
